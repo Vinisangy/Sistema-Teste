@@ -3,6 +3,5 @@
 >Status do Projeto: Em teste
 
 Para Rodar esse projeto  digite:
-...
-npe install
+node app.js
 ...
